@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to code in python and anylize SAR Data
 - 😄 I’m looking for a job and a scholarship
 - 📫 How to reach me: safiranq22@gmail.com (email)
+-                      https://its.id/m/CVSafiraNQ (CV)
 - ⚡ I’m ready to improve my skills and experience!!
 
 <!---
