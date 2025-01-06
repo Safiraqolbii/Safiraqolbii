@@ -1,4 +1,4 @@
-Hi, I’m @Safiraqolbii u can call me Safira, I’m interested in AI, Remote Sensing, and Photogrammetry. Currently I'm learning to code in python and anylize SAR Data I’m looking for a job and a scholarship to boost my experiences.
+Hi, I’m @Safiraqolbii u can call me Safira, I’m interested in Programming, Remote Sensing, and Photogrammetry. Currently I'm learning to code in python and anylize SAR Data I’m looking for a job and a scholarship to boost my experiences.
 
 📫 How to reach me: 
 - email: safiranq22@gmail.com
