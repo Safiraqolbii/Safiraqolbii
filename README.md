@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Safiraqolbii u can call me Safira
-- 👀 I’m interested in AI, Remote Sensing, and Photogrammetry
-- 🌱 I’m currently learning to code in python and anylize SAR Data
-- 😄 I’m looking for a job and a scholarship
-- 📫 How to reach me: safiranq22@gmail.com (email) 
-- ⚡ I’m ready to improve my skills and experience!!
+Hi, I’m @Safiraqolbii u can call me Safira, I’m interested in AI, Remote Sensing, and Photogrammetry. Currently I'm learning to code in python and anylize SAR Data I’m looking for a job and a scholarship to boost my experiences.
+
+📫 How to reach me: 
+- email: safiranq22@gmail.com
+- linkedin: www.linkedin.com/in/safiraqolbi
+
+
 
 <!---
 Safiraqolbii/Safiraqolbii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
